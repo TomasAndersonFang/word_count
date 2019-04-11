@@ -1,1 +1,1 @@
-db_project
+以该项目的更新来见证我自己数据库课程以及python django学习的进展，加油！Tomas！
